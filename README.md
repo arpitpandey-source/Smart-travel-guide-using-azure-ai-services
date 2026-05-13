@@ -5,7 +5,7 @@ AI powered travel assistant
 Smart Travel Guide is an AI-powered travel assistant built using **Python**, **Streamlit**, and **Azure AI Services** to make travel planning smarter, easier, and more efficient.
 
 The application helps users analyze travel destination images, translate descriptions into multiple languages, plan trips, manage expenses, track packing lists, check live weather updates, convert currencies, and access emergency travel information — all in one interactive dashboard.
-
+Developer- Arpit Pandey
 ## Features
 
 * 📸 Travel Image Analysis using Azure Computer Vision
